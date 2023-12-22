@@ -1,4 +1,6 @@
 # tubes_imk
 
 ## Preview
-![image](https://github.com/keyynatwgm/tubes_imk/assets/127914968/9021171a-453f-4b0e-a8a2-ddaa9c076443)
+![image](https://github.com/keyynatwgm/tubes_imk/assets/127914968/f46ab5d4-b699-42ae-a9a9-71f7798f67d6)
+
+
